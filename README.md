@@ -1,4 +1,4 @@
-# We-Connect-Automated-Social-Media-Management-System-
+# We-Connect
 
 # Automated Social Media Management System
 
